@@ -8,3 +8,5 @@
 3: 경사하강법 기반 Cross Entropy 함수 갱신 이론
 
 4: 경사하강법 기반 손실함수(Cross Entropy 함수)갱신, 로지스틱 회귀모델 구현
+
+5: 경사하강법 이론 기반 AND, OR perceptron 구현
